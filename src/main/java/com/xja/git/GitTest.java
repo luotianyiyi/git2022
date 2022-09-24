@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("fdsafasfs3");
         System.out.println("fdsfda4");
         System.out.println("Master!");
+        System.out.println("hot-fix test!");
     }
 }
