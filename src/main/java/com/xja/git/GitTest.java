@@ -7,9 +7,9 @@ package com.xja.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Git Test!");
-        System.out.println("Hello");
-        System.out.println("fdsafasfs");
-        System.out.println("fdsfda");
+        System.out.println("Git Test!1");
+        System.out.println("Hello2");
+        System.out.println("fdsafasfs3");
+        System.out.println("fdsfda4");
     }
 }
